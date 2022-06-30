@@ -1,23 +1,41 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+{
+    "providerName": "arministerio.com",
+    "lastUpdated": "2021-08-17T00:00:00+02:00",
+    "language": "es",
+    "liveFeeds": [
+        {
+   "id":"123",
+   "title":"A&R Canal",
+   "content":{
+  "dateAdded": "2021-11-11T22:21:37+00:00",
+  "videos": [
+    {
+         "url": "http://arministerio.com/wp-content/uploads/2021/07/QUIERO-VIVIR.mp4",
+         "quality": "HD",
+         "videoType": "mp4"
+      }
+   ],
+   "duration": 0,
+   "captions": [],
+   "adBreaks": ["00:15:00", "00:30:00", "00:45:00"],
+   "language": "es",
+  "trickPlayFiles": []
+},
+   "thumbnail":"http://arministerio.com/wp-content/uploads/2022/06/IMG_29062022_004003_800_x_450_pixel.jpg",
+   "brandedThumbnail":"http://arministerio.com/wp-content/uploads/2022/06/IMG_29062022_004003_800_x_450_pixel.jpg",
+   "shortDescription":"Canal Adventista",
+   "longDescription":"Canal Adventista del Séptimo Día, es un canal que prédica el evangelio de Cristo al mundo entero, ofreciendo contenido variado como, sermones cristianos, prédicas, reflexiones cristianas, mensajes, música cristiana, oración y contenido que te ayuda a tener fe y esperanza en Cristo Jesús",
+   "tags":[
+      "adventista",
+      "canal cristiano",
+      "canal adventista",
+      "música cristiana",
+      "3abn",
+      "reflexiones cristianas",
+      "sermones cristianos",
+      "meditación cristiana",
+      "oración"
+   ]
+    }
+    ]
+}
